@@ -52,9 +52,9 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 496 hrs 57 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 433 hrs 32 mins
-🎮 Sea of Thieves                   🕘 47 hrs 43 mins
+🔫 Counter-Strike: Global Offensive 🕘 497 hrs 40 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 444 hrs 33 mins
+🎮 Sea of Thieves                   🕘 48 hrs 15 mins
 🎮 Counter-Strike                   🕘 21 hrs 39 mins
 🎮 Counter-Strike: Source           🕘 15 hrs 8 mins
 ```
@@ -71,11 +71,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 Bloom of Youth - 清水淳一  ·  1 plays
-🥈 盗将行 - 花粥/马雨阳  ·  1 plays
-🥉 The Sound Of Silence - Simon & Garfunkel  ·  1 plays
-   The Sound of Silence - Dan Gibson  ·  1 plays
-   流れ行く云 - 岸部眞明  ·  1 plays
+🥇 明年今日 (Live) - 陈奕迅  ·  2 plays
+🥈 The Tide - 植地雅哉  ·  2 plays
+🥉 night call. - Z-H-ERO  ·  1 plays
+   The Waking of Insects（惊蛰） - THT/VIIOX  ·  1 plays
+   PLANET - ラムジ  ·  1 plays
 ```
 
 <!-- music_time ends -->
