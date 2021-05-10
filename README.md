@@ -52,8 +52,8 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 497 hrs 40 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 444 hrs 33 mins
+🔫 Counter-Strike: Global Offensive 🕘 498 hrs 30 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 464 hrs 22 mins
 🎮 Sea of Thieves                   🕘 48 hrs 15 mins
 🎮 Counter-Strike                   🕘 21 hrs 39 mins
 🎮 Counter-Strike: Source           🕘 15 hrs 8 mins
@@ -71,11 +71,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 明年今日 (Live) - 陈奕迅  ·  2 plays
-🥈 The Tide - 植地雅哉  ·  2 plays
-🥉 night call. - Z-H-ERO  ·  1 plays
-   The Waking of Insects（惊蛰） - THT/VIIOX  ·  1 plays
-   PLANET - ラムジ  ·  1 plays
+🥇 风入松 - 关大洲  ·  1 plays
+🥈 久遠～光と波の記憶～ - 南澤大介  ·  1 plays
+🥉 Cobalt - Enzalla  ·  1 plays
+   See You Again - Wiz Khalifa/Charlie Puth  ·  1 plays
+   烟云 - Infinite Mask  ·  1 plays
 ```
 
 <!-- music_time ends -->
