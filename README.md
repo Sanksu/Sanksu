@@ -52,8 +52,8 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 498 hrs 30 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 464 hrs 22 mins
+🔫 Counter-Strike: Global Offensive 🕘 503 hrs 46 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 471 hrs 24 mins
 🎮 Sea of Thieves                   🕘 48 hrs 15 mins
 🎮 Counter-Strike                   🕘 21 hrs 39 mins
 🎮 Counter-Strike: Source           🕘 15 hrs 8 mins
@@ -71,11 +71,7 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 风入松 - 关大洲  ·  1 plays
-🥈 久遠～光と波の記憶～ - 南澤大介  ·  1 plays
-🥉 Cobalt - Enzalla  ·  1 plays
-   See You Again - Wiz Khalifa/Charlie Puth  ·  1 plays
-   烟云 - Infinite Mask  ·  1 plays
+404: Not Found
 ```
 
 <!-- music_time ends -->
