@@ -16,7 +16,6 @@ jobs:
       run: |-
         git clone https://github.com/Sanksu/Sanksu/ ~/Sanksu
         cd ~/Sanksu
-        git pull
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -41,6 +40,7 @@ jobs:
       run: |-
         git config --global user.email "870889277@qq.com"
         git config --global user.name "Sanksu"
+        git pull
         git add -A
         git commit -m "Updated content" || exit 0
         git push
