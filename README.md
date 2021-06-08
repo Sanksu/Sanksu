@@ -22,11 +22,7 @@
 #### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href=http://example.com/2020/12/27/%E8%A7%A3%E5%86%B3Github-Pages%E8%A2%AB%E6%8C%87%E5%90%91localhost/ target='_blank'>解决Github-Pages被指向localhost</a> - 2020-12-27
-* <a href=http://example.com/2020/11/14/%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>个性化Github个人主页</a> - 2020-11-14
-* <a href=http://example.com/2020/10/17/%E5%9C%A82020%E5%B9%B4%E6%8D%A1%E4%B8%80%E5%8F%B0iPhone4/ target='_blank'>在2020年捡一台iPhone4</a> - 2020-10-17
-* <a href=http://example.com/2020/10/17/%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8D%E5%AD%97%E9%80%81%E4%B8%8A%E7%81%AB%E6%98%9F/ target='_blank'>把自己的名字送上火星</a> - 2020-10-17
-* <a href=http://example.com/2020/07/28/%E5%AE%89%E8%A3%85WSL%E5%B9%B6%E5%AE%89%E8%A3%85%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/ target='_blank'>安装WSL并安装图形界面</a> - 2020-07-28
+
 <!-- blog ends -->
 
 </td>
@@ -71,7 +67,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-404: Not Found
+🥇 如何掉眼泪 - 郑秀文  ·  1 plays
+🥈 不要离我太远 - 邓丽欣  ·  1 plays
+🥉 童话 - 光良  ·  1 plays
+   在你遥远的附近 - 方力申  ·  1 plays
+   爱在深秋 - 谭咏麟  ·  1 plays
 ```
 
 <!-- music_time ends -->
