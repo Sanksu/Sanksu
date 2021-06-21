@@ -48,11 +48,11 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 528 hrs 40 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 485 hrs 14 mins
+🔫 Counter-Strike: Global Offensive 🕘 528 hrs 53 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 491 hrs 45 mins
 🎮 Sea of Thieves                   🕘 48 hrs 15 mins
-🎮 Titanfall® 2                     🕘 29 hrs 13 mins
-🎮 Counter-Strike                   🕘 21 hrs 39 mins
+🎮 Titanfall® 2                     🕘 29 hrs 14 mins
+🎮 Counter-Strike                   🕘 22 hrs 2 mins
 ```
 
 <!-- play_time ends -->
@@ -67,11 +67,11 @@ Still Gathering Statistics...
 <!-- music_time starts -->
 
 ```text
-🥇 Save Tonight - Tom Speight/Lydia Clowes  ·  17 plays
-🥈 Take Me Home Country Roads - John Denver  ·  9 plays
-🥉 We Belong - Old Sea Brigade  ·  6 plays
-   Song Of Hope - Priscilla Ahn  ·  6 plays
-   Beautiful People (Acoustic) - Ed Sheeran  ·  5 plays
+🥇 淘汰 - 陈奕迅  ·  1 plays
+🥈 The End - Day 7  ·  1 plays
+🥉 We Belong - Old Sea Brigade  ·  1 plays
+   记念 - RAiNBOW计划/雷雨心  ·  1 plays
+   Save Tonight - Campsite Dream  ·  1 plays
 ```
 
 <!-- music_time ends -->
