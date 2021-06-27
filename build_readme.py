@@ -127,7 +127,7 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://sanksu.github.io/atom.xml")["entries"]
+    entries = feedparser.parse("https://sanksu.github.io/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
