@@ -22,11 +22,7 @@
 #### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href=https://sanksu.top/_posts/2020-11-14-%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>个性化Github个人主页</a> - 2020-11-14
-* <a href=https://sanksu.top/_posts/2020-10-17-%E5%9C%A82020%E5%B9%B4%E6%8D%A1%E4%B8%80%E5%8F%B0iPhone4/ target='_blank'>在2020年捡一台iPhone4</a> - 2020-10-17
-* <a href=https://sanksu.top/_posts/2020-08-01-%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8D%E5%AD%97%E9%80%81%E4%B8%8A%E7%81%AB%E6%98%9F/ target='_blank'>把自己的名字送上火星</a> - 2020-08-01
-* <a href=https://sanksu.top/_posts/2020-07-28-%E5%AE%89%E8%A3%85WSL%E5%B9%B6%E5%AE%89%E8%A3%85%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/ target='_blank'>安装WSL并安装图形界面</a> - 2020-07-28
-* <a href=https://sanksu.top/_posts/2020-07-24-%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/ target='_blank'>树莓派安装64位宝塔面板</a> - 2020-07-24
+
 <!-- blog ends -->
 
 </td>
