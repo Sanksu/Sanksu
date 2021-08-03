@@ -52,10 +52,10 @@ Still Gathering Statistics...
 <!-- play_time starts -->
 
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 528 hrs 53 mins
-🔫 Tom Clancy's Rainbow Six Siege   🕘 491 hrs 45 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 542 hrs 38 mins
+🔫 Counter-Strike: Global Offensive 🕘 535 hrs 31 mins
+🎮 Titanfall® 2                     🕘 49 hrs 2 mins
 🎮 Sea of Thieves                   🕘 48 hrs 15 mins
-🎮 Titanfall® 2                     🕘 29 hrs 14 mins
 🎮 Counter-Strike                   🕘 22 hrs 2 mins
 ```
 
