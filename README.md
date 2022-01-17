@@ -37,10 +37,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/05162ee00bd2a93c4d0e7b3f5c173e74" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C++      🕓 17m ██████████████████▏░░░░░░░░░░░░░ 57.0%
-C        🕓 12m █████████████▎░░░░░░░░░░░░░░░░░░ 41.5%
-INI      🕓 0s  ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
-Makefile 🕓 0s  ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
