@@ -4,9 +4,6 @@
 
 ![mona-whisper.gif](https://i.loli.net/2020/12/13/shjJv47WkqaFp1R.gif)
 
-<table width="600px">
-<tr>
-<td valign="top" width="50%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/226575739/" target="_blank">Funny Soul</a>
 
@@ -16,8 +13,6 @@
 * <a href=http://movie.douban.com/subject/1292052/ target='_blank'>想看肖申克的救赎</a> - 2020-11-14
 <!-- douban ends -->
 
-</td>
-<td valign="top" width="50%">
 
 #### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
 
@@ -29,12 +24,6 @@
 * <a href=https://sanksu.top/_posts/2020-04-24-linux%E5%AD%A6%E4%B9%A0/ target='_blank'>一些简单的命令</a> - 2020-04-24
 <!-- blog ends -->
 
-</td>
-</tr>
-<tr>
-
-
-<td valign="top" width="50%">
 
 #### 🏋️‍♀️ <a href="https://github.com/sanksu/sanksu/blob/main/releases.md" target="_blank">Product Releases</a>
 
