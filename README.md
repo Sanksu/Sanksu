@@ -1,7 +1,7 @@
 ## Hello,World!
 
 我是 Sanksu，以下内容通过 [GitHub Actions](https://github.com/sanksu/sanksu/actions) 自动更新，感谢 [Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
-
+![](https://raw.githubusercontent.com/Sanksu/Sanksu/main/assets/github-contribution-grid-snake.svg)
 ![mona-whisper.gif](https://i.loli.net/2020/12/13/shjJv47WkqaFp1R.gif)
 
 <table width="800px">
