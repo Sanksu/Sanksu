@@ -27,11 +27,7 @@
   
 #### 🎣 <a href="https://sanksu.top/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
-* <a href=https://sanksu.top/_posts/2020-11-14-%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>个性化Github个人主页</a> - 2020-11-14
-* <a href=https://sanksu.top/_posts/2020-10-17-%E5%9C%A82020%E5%B9%B4%E6%8D%A1%E4%B8%80%E5%8F%B0iPhone4/ target='_blank'>在2020年捡一台iPhone4</a> - 2020-10-17
-* <a href=https://sanksu.top/_posts/2020-07-28-%E5%AE%89%E8%A3%85WSL%E5%B9%B6%E5%AE%89%E8%A3%85%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/ target='_blank'>安装WSL并安装图形界面</a> - 2020-07-28
-* <a href=https://sanksu.top/_posts/2020-05-16-Minecraft%E5%BC%80%E6%9C%8D/ target='_blank'>Minecraft开服</a> - 2020-05-16
-* <a href=https://sanksu.top/_posts/2020-04-24-linux%E5%AD%A6%E4%B9%A0/ target='_blank'>一些简单的命令</a> - 2020-04-24
+
 <!-- blog ends -->
 </td>
 
