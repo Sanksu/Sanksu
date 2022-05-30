@@ -29,7 +29,7 @@
 <!-- blog starts -->
 * <a href=http://example.com/2022/05/04/%E6%BB%95%E8%BE%BEAC9%E7%A1%AC%E6%94%B916M%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97/ target='_blank'>滕达AC9硬改16M避坑指南</a> - 2022-05-04
 * <a href=http://example.com/2021/11/20/%E5%8A%A8%E5%90%8D%E8%AF%8D%E5%B8%B8%E8%A7%81%E6%90%AD%E9%85%8D/ target='_blank'>动名词常见搭配</a> - 2021-11-20
-* <a href=http://example.com/2020/11/14/%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>个性化Github个人主页</a> - 2020-11-14
+* <a href=http://example.com/2020/11/14/%E4%B8%AA%E6%80%A7%E5%8C%96Github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/ target='_blank'>Github个人主页</a> - 2020-11-14
 * <a href=http://example.com/2020/10/17/%E5%9C%A82020%E5%B9%B4%E6%8D%A1%E4%B8%80%E5%8F%B0iPhone4/ target='_blank'>在2020年捡一台iPhone4</a> - 2020-10-17
 * <a href=http://example.com/2020/07/28/%E5%AE%89%E8%A3%85WSL%E5%B9%B6%E5%AE%89%E8%A3%85%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/ target='_blank'>安装WSL并安装图形界面</a> - 2020-07-28
 <!-- blog ends -->
