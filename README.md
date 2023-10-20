@@ -1,14 +1,8 @@
 ## Hello,World!
 
-我是 Sanksu，以下内容通过 [GitHub Actions](https://github.com/sanksu/sanksu/actions) 自动更新，感谢 [Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
-
-
-
+I'm Sanksu,now studying in Jiangsu University of Science and Technology
 
 ![](https://raw.githubusercontent.com/Sanksu/Sanksu/main/assets/github-contribution-grid-snake.svg)
-
-
-
 
 ![mona-whisper.gif](https://i.loli.net/2020/12/13/shjJv47WkqaFp1R.gif)
 
@@ -56,3 +50,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ---
+
+Power by [GitHub Actions](https://github.com/sanksu/sanksu/actions)，Thanks for[Tw93/Github 首页自动信息工作流](https://github.com/tw93/tw93)
